@@ -1,3 +1,4 @@
+var1,var2,out
 svg,flag,"1,1"
 svg,Coat of arms,"1,2"
 svg,Climate,"1,3"
@@ -7,3 +8,4 @@ url,Climate,"2,3"
 png,flag,"3,1"
 png,Coat of arms,"3,2"
 png,Climate,"3,4"
+
