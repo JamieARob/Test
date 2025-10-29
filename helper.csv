@@ -1,12 +1,13 @@
 __text,var1,var2,__value
-1,svg,flag,"1,1"
-2,svg,Coat of arms,"1,2"
-3,svg,Climate,"1,3"
-4,url,flag,"2,1"
-5,url,Coat of arms,"2,2"
-6,url,Climate,"2,3"
-7,png,flag,"3,1"
-8,png,Coat of arms,"3,2"
-9,png,Climate,"3,4"
+1,svg,1,"1,1"
+2,svg,2,"1,2"
+3,svg,3,"1,3"
+4,url,1,"2,1"
+5,url,2,"2,2"
+6,url,3,"2,3"
+7,png,1,"3,1"
+8,png,2,"3,2"
+9,png,3,"3,4"
+
 
 
